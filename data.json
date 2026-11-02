@@ -1,0 +1,9 @@
+{
+  "name": "小明",
+  "age": 22,
+  "city": "厦门",
+  "skills": [
+    "Python",
+    "Git"
+  ]
+}
